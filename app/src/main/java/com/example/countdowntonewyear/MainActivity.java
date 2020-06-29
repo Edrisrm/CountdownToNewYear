@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         CountdownView mCvCountdownView = findViewById(R.id.mycountdown);
 
         SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss");
-        String countDate = "27-06-2020 03:28:00";
+        String countDate = "27-06-2020 23:30:00";
         Date now = new Date();
 
 
